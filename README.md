@@ -1,17 +1,10 @@
-# Student Management System
+# Screenshots
 
-## Description
-This project is used to manage student records.
+## Home Page
+![Home Page](screenshots/home-page.png)
 
-## Features
-- Add student
-- Delete student
-- Store data permanently
+## Add Student
+![Add Student](screenshots/add-student.png)
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-
-## Author
-Your Name
+## Delete Operation
+![Delete](screenshots/delete-operation.png)
